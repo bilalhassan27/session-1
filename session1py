@@ -52,6 +52,16 @@ maxis 2.5* minis
     so 4.5 maxis is equal to 2.5*4.5*minis
 display maxis
 
+
 minis 5000
 maxis= 2.5*minis
 print("the value for maxis is: ",4.5*maxis)
+
+bits = 1
+by_tes = 1024*by_tes
+kilo_bytes = 1024*kilo_bytes
+mega_bytes = 1024*kilo_bytes
+giga_bytes = 1024*giga_bytes
+
+print("the memory allocation units are as follows: ")
+print("1:", bits, "2:"by_tes, "3:",kilo_bytes, "4," mega_bytes,"5:", giga_bytes)

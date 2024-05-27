@@ -1,0 +1,43 @@
+# first program
+# calculate area of a circle
+# A=π r 2
+
+# Area of circle =pie *radius**2
+
+pie= 3.14115
+diam=14
+radi=diam/2
+
+input pie value
+input radius value
+calculate area by:
+pie times r square
+display area of circle
+
+# input miles
+# input name
+# convert kms to miles by:
+# miles is 1.6*kms
+# display kms with name
+# write a program to input age of a user, and letthem know if they have diabete
+# risk or not, use case is that a user with age more than 65 is risky else not 
+# risky
+
+age=55
+if age>=65
+    print("this is risky")
+
+
+
+# write a program to calculate the Gst tax of two products, apple and pie 
+# apple has 10% Gst and pie has only 8%
+# calculate total Gst that need to be deducted from the bill
+# apple gross sales is $75, pie gross is $100
+
+apple =75
+pie =100
+gst_apple =0.1*apple
+gst_pie = 0.08*pie
+
+print(gst_apple)
+print(gst_pie)
